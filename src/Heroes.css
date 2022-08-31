@@ -1,0 +1,86 @@
+.plenty {
+  width: 100%;
+  height: auto;
+  margin-top: 80px;
+}
+.rectangle {
+  width: 100%;
+  height: auto;
+}
+.blue-con {
+  position: relative;
+  height: 300px;
+}
+.blue {
+  width: 100%;
+  height: 100%;
+}
+
+.nike {
+  position: absolute;
+  margin: 100px auto 0px auto;
+  left: 0;
+  right: 0;
+  width: 180px;
+  height: 80px;
+}
+.newShoeCon {
+  position: relative;
+  top: -50px;
+  padding-left: 20px;
+  z-index: 4;
+}
+.newShoeOne,
+.newShoeTwo {
+  display: block;
+  width: 75%;
+  height: auto;
+  margin: 0 auto;
+}
+
+@media (min-width: 650px) {
+  .hero-con {
+    display: flex;
+    margin-bottom: 10px;
+    overflow: hidden;
+    height: 450px;
+    flex-direction: row-reverse;
+  }
+  .plenty {
+    width: 50%;
+    height: auto;
+  }
+  .blackback {
+    width: 50%;
+    height: 100%;
+  }
+  .img-background {
+    margin-top: 80px;
+  }
+  .first-article {
+    justify-content: center;
+    gap: 30px;
+    margin-top: 10px;
+    font-size: 1rem;
+  }
+  .blue-con {
+    height: 500px;
+  }
+  .newShoeCon {
+    display: flex;
+    top: 50px;
+    margin-top: -150px;
+    padding-bottom: 50px;
+  }
+
+  .newShoeOne,
+  .newShoeTwo {
+    width: 50%;
+    max-width: 500px;
+  }
+  .nike {
+    width: 250px;
+    height: auto;
+    margin-top: 250px;
+  }
+}

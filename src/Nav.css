@@ -1,0 +1,77 @@
+.nav-con {
+  display: block;
+  margin: 0 auto;
+  position: fixed;
+  width: 100%;
+  background-color: white;
+  z-index: 30;
+  padding: 10px 0px;
+}
+.fixed {
+  position: fixed;
+  width: 100%;
+  z-index: 30;
+  background-color: white;
+  padding: 10px 0px;
+}
+
+.icon-con {
+  position: relative;
+}
+.icon-con svg {
+  position: absolute;
+  top: -10px;
+}
+ul {
+  list-style: none;
+  display: grid;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  text-align: center;
+}
+span {
+  color: grey;
+}
+.header {
+  font-size: 1.4rem;
+}
+.desktop-ul {
+  grid-template-columns: 15% 10% 10% 30% 10% 10% 10%;
+}
+.mobile-ul {
+  grid-template-columns: 15% 60% 15%;
+}
+/*For Menu*/
+.menu-con {
+  background-color: white;
+  width: 100vw;
+  height: 100vh;
+  z-index: 10;
+  overflow: hidden;
+  position: fixed;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.search,
+.profileMenu {
+  width: 50px;
+}
+.NikeMenu {
+  width: 150px;
+  height: auto;
+  align-self: center;
+}
+p {
+  margin-top: -15px;
+}
+.search-con {
+  display: flex;
+  align-items: center;
+}
+.search-con span {
+  font-size: 1.4rem;
+  margin-left: 10px;
+}

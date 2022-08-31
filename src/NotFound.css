@@ -1,0 +1,18 @@
+img {
+  width: 200px;
+  height: auto;
+}
+.work-con {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.work-con div {
+  text-align: center;
+}
+.work-con div p {
+  padding-top: 20px;
+  text-decoration: underline;
+  color: blue;
+}
