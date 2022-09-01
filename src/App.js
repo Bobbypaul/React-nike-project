@@ -1,3 +1,4 @@
+import React from "react";
 import Catergory from "./Category";
 import Footer from "./Footer";
 import Heroes from "./Heroes";
