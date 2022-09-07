@@ -29,25 +29,6 @@
   display: block;
   margin: 0 auto;
   position: relative;
-
-  animation-name: sliding;
-  animation-timing-function: forwards;
-  animation-iteration-count: infinite;
-  animation-duration: 10s;
-}
-@keyframes sliding {
-  0% {
-    left: 0px;
-  }
-  35% {
-    left: -180px;
-  }
-  75% {
-    left: -400px;
-  }
-  100% {
-    left: 0px;
-  }
 }
 @media (min-width: 650px) {
   .sidee-con {

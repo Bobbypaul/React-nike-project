@@ -14,7 +14,7 @@ function App() {
       <div className="app-con">
         <Nav />
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/React-nike-project">
             <Heroes />
             <Slide />
             <Catergory />
@@ -24,7 +24,7 @@ function App() {
           <Route exact path="/menu">
             <Menu />
           </Route>
-          <Route exact path="*">
+          <Route path="*">
             <NotFound />
           </Route>
         </Switch>

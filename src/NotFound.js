@@ -10,7 +10,7 @@ const NotFound = () => {
           src={require("./images/work.png")}
         />
         <h2>This page is not yet built. Dont come back.</h2>
-        <Link to="/">
+        <Link to="/React-nike-project">
           <p> Click here to Go back home</p>
         </Link>
       </div>
