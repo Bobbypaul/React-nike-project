@@ -72,7 +72,7 @@ const Nav = function () {
                     </Link>
                   )}
                   {!change && (
-                    <Link to="/">
+                    <Link to="/React-nike-project">
                       <svg
                         onClick={function () {
                           handleClick();

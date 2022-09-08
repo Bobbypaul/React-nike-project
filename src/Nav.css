@@ -47,9 +47,10 @@ span {
   background-color: white;
   width: 100vw;
   height: 100vh;
+  min-height: 700px;
   z-index: 10;
-  overflow: hidden;
-  position: fixed;
+
+  position: absolute;
   padding: 50px;
   display: flex;
   flex-direction: column;
