@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-nike-project/static/css/main.44a804a8.css",
+    "main.js": "/React-nike-project/static/js/main.15609081.js",
+    "static/media/plenty.png": "/React-nike-project/static/media/plenty.3877a765f938dad9cc0b.png",
+    "static/media/yoga.png": "/React-nike-project/static/media/yoga.97de282792ed9fc84d4d.png",
+    "static/media/blue.png": "/React-nike-project/static/media/blue.92a4e59b70f4dd82f799.png",
+    "static/media/lastShoeOne.png": "/React-nike-project/static/media/lastShoeOne.8ec0de55ddfe2fea027d.png",
+    "static/media/football.png": "/React-nike-project/static/media/football.8cb02af71ce9a066d12b.png",
+    "static/media/newShoeTwo.png": "/React-nike-project/static/media/newShoeTwo.8f7f16a9750cf6dda2b5.png",
+    "static/media/newShoeOne.png": "/React-nike-project/static/media/newShoeOne.9e119d546179c7769f1f.png",
+    "static/media/footer.png": "/React-nike-project/static/media/footer.c1535b600fe320f28716.png",
+    "static/media/lastShoeTwo.png": "/React-nike-project/static/media/lastShoeTwo.55244adad1c004644965.png",
+    "static/media/run.png": "/React-nike-project/static/media/run.64a2afcfbc4c777a8ba2.png",
+    "static/media/firstSlide.png": "/React-nike-project/static/media/firstSlide.a4ede9f05f8c847c176f.png",
+    "static/media/secondSlide.png": "/React-nike-project/static/media/secondSlide.6289a0271fb0ecce4be6.png",
+    "static/media/thirdSlide.png": "/React-nike-project/static/media/thirdSlide.61ba7d64980a59cf1837.png",
+    "static/media/blackbar.png": "/React-nike-project/static/media/blackbar.05ba7a51664de9bc34bb.png",
+    "static/media/work.png": "/React-nike-project/static/media/work.307171177519bf22e237.png",
+    "static/media/Rectangle.png": "/React-nike-project/static/media/Rectangle.6114d98eaae5c1eb1209.png",
+    "static/media/footerLogo.png": "/React-nike-project/static/media/footerLogo.37b1601e15e8cfdc1e32.png",
+    "index.html": "/React-nike-project/index.html",
+    "main.44a804a8.css.map": "/React-nike-project/static/css/main.44a804a8.css.map",
+    "main.15609081.js.map": "/React-nike-project/static/js/main.15609081.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44a804a8.css",
+    "static/js/main.15609081.js"
+  ]
+}
